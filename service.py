@@ -21,7 +21,7 @@ def read_root(text: Text):
         "Thanks for a good feedback!" if prediction == 0 
         else "We are sorry to hear that!" if prediction == 1 
         else "Thanks for the feedback!" if prediction == 2 
-        else "Thanks for reaching out!"  # Final fallback required
+        else "Thanks for reaching out!"
     ]
 
     return {"prediction": message}
