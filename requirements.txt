@@ -1,0 +1,12 @@
+sentence-transformers
+streamlit
+requests
+fastapi
+uvicorn
+pydantic
+joblib
+pandas
+sqlalchemy
+psycopg2-binary
+xgboost
+scikit-learn
